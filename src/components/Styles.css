@@ -161,7 +161,7 @@
     border-radius: 20px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 800px) and (min-height: 500px) {
     .Title {
         font-size: 2rem;
         padding-top: 4rem;
