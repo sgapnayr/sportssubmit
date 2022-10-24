@@ -31,9 +31,11 @@ const InputCard: React.FC<Props> = ({ setNext, next, gender, setGender }) => {
             </div> : null}
 
             {next === 1 ? <div className='PopUp'>
-                <div className="InputDiv">
-                    <h3>Sports</h3>
-                    <input type="text" className='InputBox' placeholder='(e.g. Baseball)' />
+                <div className="InputDiv Sport">
+                    <h3>Sport:</h3>
+                    <select name="" id="">
+                        <option value="">Baseball</option>
+                    </select>
                 </div>
                 <div className="InputDiv">
                     <h3>About</h3>
