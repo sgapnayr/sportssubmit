@@ -95,7 +95,8 @@ img {
 }
 
 .GenderButton {
-    background-color: rgba(145, 145, 145, 0.3);
+    background: rgb(25, 25, 25);
+    background: linear-gradient(133deg, rgb(82, 82, 82) 0%, rgba(50, 50, 60, 1) 47%, rgba(65, 65, 65, 1) 90%, rgb(65, 65, 65) 100%);
     padding: 1.2rem;
     width: 33.333%;
     border: 1px solid rgba(255, 255, 255, .1);
