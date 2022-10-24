@@ -171,7 +171,7 @@ img {
 
 @media (max-width: 800px) and (max-height: 900px) {
     img {
-        width: 3rem;
+        width: 2rem;
     }
 
     .Image {
@@ -189,7 +189,7 @@ img {
 
     .InputBox {
         width: 70%;
-        margin: .25rem;
+        margin: .15rem;
     }
 
     h3 {
