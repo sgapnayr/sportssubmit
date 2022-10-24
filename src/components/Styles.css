@@ -184,6 +184,11 @@
         padding: .5rem;
     }
 
+    .GenderButtonActive {
+        padding: .5ren;
+    }
+
+
     .Button {
         font-size: 1rem;
     }
