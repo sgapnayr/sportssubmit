@@ -21,7 +21,7 @@ const InputCard: React.FC<Props> = ({ setNext, next, gender, setGender }) => {
                 </button>
             </div> : null}
 
-            {next === 2 ? <div className='Confirmation'>
+            {next === 2 ? <div className='EditPage'>
                 <div className="InputDiv">
                     <h1>Edit Page</h1>
                 </div>
