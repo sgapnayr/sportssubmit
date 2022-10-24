@@ -7,6 +7,7 @@ import TitleCard from './components/TitleCard';
 function App() {
   const [next, setNext] = useState<number>(0)
   const [gender, setGender] = useState<number>(4)
+
   return (
     <div className="App">
       <Image />
