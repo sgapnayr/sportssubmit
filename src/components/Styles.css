@@ -170,6 +170,14 @@ img {
 }
 
 @media (max-width: 800px) and (max-height: 900px) {
+    img {
+        width: 3rem;
+    }
+
+    .Image {
+        margin: 0rem;
+    }
+
     .Title {
         font-size: 2rem;
         padding-top: 4rem;
