@@ -30,7 +30,6 @@ const InputCard: React.FC<Props> = ({ setNext, next, gender, setGender }) => {
                 </button>
             </div> : null}
 
-
             {next === 1 ? <div className='PopUp'>
                 <div className="InputDiv">
                     <h3>Sports</h3>
@@ -56,7 +55,7 @@ const InputCard: React.FC<Props> = ({ setNext, next, gender, setGender }) => {
             </div>
             <div className="InputDiv">
                 <h3>Date of Birth:</h3>
-                <input type="date" className='InputBox' placeholder='Date Of Birth' />
+                <input type="date" className='InputBox Date' placeholder='Oct 23, 1999' />
             </div>
             <div className="InputDiv">
                 <h3>Location:</h3>
