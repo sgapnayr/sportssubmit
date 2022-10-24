@@ -171,26 +171,22 @@ img {
 }
 
 .Sport {
-    display: flex;
-    flex-direction: row;
     margin: 1rem 0 0 0;
-    align-items: center;
-    justify-content: center;
 }
 
 select {
-    background: -webkit-linear-gradient(133deg, rgb(243, 227, 51) 20%, rgb(244, 188, 83) 46%, rgb(243, 227, 51) 100%);
+    background: linear-gradient(133deg, rgb(82, 82, 82) 0%, rgba(50, 50, 60, 1) 47%, rgba(65, 65, 65, 1) 90%, rgb(65, 65, 65) 100%);
     color: white;
     font-size: 1rem;
     text-shadow: 1px 1px 10px rgba(0, 0, 0, .3);
     border-radius: 30px;
-    width: 10%;
+    width: 40%;
+    text-align: center;
     box-shadow: 1px 1px 10px rgba(255, 255, 255, .3);
-    margin: 2rem 0 -1rem 0;
-    padding: .5rem;
+    padding: .75rem;
     cursor: pointer;
     transition: .2s all ease-in-out;
-    border: 1px solid gold;
+    border: 1px solid rgba(255, 255, 255, .1);
     outline: none;
 }
 
