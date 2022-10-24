@@ -1,3 +1,11 @@
+.Image {
+    margin: -2rem 0 4rem 0;
+}
+
+img {
+    width: 5rem;
+}
+
 .Title {
     font-size: 4rem;
     font-weight: bold;
@@ -7,7 +15,7 @@
     -webkit-text-fill-color: transparent;
     text-shadow: 1px 1px 10px rgba(0, 0, 0, .3);
     font-style: italic;
-    margin-top: -5rem;
+    margin-top: -4rem;
 }
 
 .InputCard {
