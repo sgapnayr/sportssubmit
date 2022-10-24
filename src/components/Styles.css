@@ -83,7 +83,7 @@
 }
 
 .GenderButton {
-    background-color: rgb(145, 145, 145);
+    background-color: rgba(145, 145, 145, 0.3);
     padding: 1.2rem;
     width: 33.333%;
     border: 1px solid rgba(255, 255, 255, .1);
