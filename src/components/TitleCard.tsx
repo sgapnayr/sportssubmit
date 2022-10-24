@@ -4,7 +4,7 @@ import './Styles.css'
 function TitleCard() {
     return (
         <span className='Title'>
-            Sports Submit
+            Sport Submit
         </span>
     )
 }

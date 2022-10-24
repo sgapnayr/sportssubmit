@@ -138,7 +138,7 @@ img {
     background: linear-gradient(133deg, rgb(16, 16, 16) 0%, rgb(34, 34, 41) 50%, rgb(16, 16, 16) 90%, rgb(20, 20, 20) 100%);
     box-shadow: 1px 1px 10px 1000px rgba(0, 0, 0, .45);
     width: 90%;
-    right: 5%;
+    padding-bottom: 3rem;
     z-index: 1;
     border-radius: 20px;
     padding-bottom: 3rem;
