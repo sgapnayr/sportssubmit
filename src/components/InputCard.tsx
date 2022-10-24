@@ -40,7 +40,7 @@ const InputCard: React.FC<Props> = ({ setNext, next, gender, setGender }) => {
                 </div>
                 <div className="InputDiv">
                     <h3>About</h3>
-                    <input type="text" className='InputBox' placeholder='I really like to...' />
+                    <input type="text" className='InputBox About' placeholder='I really like to...' />
                 </div>
                 <div className="InputDiv">
                     <h3>Interests</h3>
